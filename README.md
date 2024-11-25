@@ -127,7 +127,7 @@ The primary goal of this project is to showcase how a simple static website can 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-repo/cicd-project.git
-   cd cicd-project
+   cd CI-CD
 # **CI/CD Pipeline Project**
 
 This project demonstrates the implementation of a Continuous Integration and Continuous Deployment (CI/CD) pipeline for deploying a simple HTML-based web application. The pipeline leverages **AWS services** for automating the deployment process.
@@ -192,7 +192,7 @@ The primary goal of this project is to showcase how a simple static website can 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-repo/cicd-project.git
-   cd cicd-project
+   cd CI-CD
 2. Set Up AWS S3:
 
 Create an S3 bucket and enable static website hosting.
